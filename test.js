@@ -2,7 +2,7 @@ var expect = require('chai').expect; // can just say expect instead of chai.expe
 var greet = require('./greet.js');
 
 // need this to run another instance of node so test can be run to make sure
-// cli argument is handled correctly not sure how to fully implement yet.
+// command line argument is handled correctly not sure how to fully implement yet.
 // var cmdLineCheck = require('child_process');
 
 // tests to make sure the greet function works
