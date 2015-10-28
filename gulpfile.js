@@ -23,4 +23,4 @@ gulp.task('default', ['lint', 'errorTest', 'watch']);
 
 
 
-// may refactor later to move the jshint options (node and globals) into a jshintrc file that you can transfer between projects.
+// may refactor this later to move the jshint options (node and globals) into a jshintrc file that you can transfer between projects.
