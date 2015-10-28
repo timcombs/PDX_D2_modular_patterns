@@ -1,0 +1,27 @@
+{
+  "name": "main",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timcombs/PDX_D2_modular_patterns.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/timcombs/PDX_D2_modular_patterns/issues"
+  },
+  "homepage": "https://github.com/timcombs/PDX_D2_modular_patterns#readme",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "chai": "^3.4.0",
+    "gulp": "^3.9.0",
+    "gulp-jshint": "^1.11.2",
+    "gulp-mocha": "^2.1.3"
+  }
+}

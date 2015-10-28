@@ -1,3 +1,4 @@
-var greet = require('./greet.js'); // imports greet.js which has the greet function
+ // imports greet.js which has the greetPerson method
+var greet = require('./greet.js');
 
-console.log(greet.sayName.greet('Brian')); // returns 'hello Brian'
+console.log(greet.greetPerson.sayHello('Tim'));
